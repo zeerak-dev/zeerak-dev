@@ -24,13 +24,8 @@ Hi 👋, I'm Zeerak<br>A Software Engineer bridging the gap between Data Enginee
 ![](https://nirzak-streak-stats.vercel.app/?user=zeerak-dev&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeerak-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### 💡 My Development Philosophy
+*"Turning complex web data into clean insights, and raw ideas into pixel-perfect, high-performing websites."*
+<br> — Syed Ali Zeerak Naqvi
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zeerak-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=zeerak-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
